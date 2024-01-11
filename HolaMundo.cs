@@ -8,8 +8,10 @@ public class HolaMundo : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello Mundo");
+        Debug.Log("Otro mensaje");
 
-        
+
+
     }
 
     // Update is called once per frame
